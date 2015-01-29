@@ -21,7 +21,7 @@ Currently at the planning stage, if you're after a working solution this is not 
 ## Output
   Pluggable
   Should ship with output plugins for
-    * Outputting to disk
+  * Outputting to disk
 
 
 ## Use
