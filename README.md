@@ -22,3 +22,7 @@ Currently at the planning stage, if you're after a working solution this is not 
   Pluggable
   Should ship with output plugins for
     * Outputting to disk
+
+
+## Use
+Should be a vanilla node module designed to be used programatically, with optional plugins for Grunt and Gulp
