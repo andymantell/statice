@@ -6,6 +6,7 @@ Currently at the planning stage, if you're after a working solution this is not 
 ## Planned features
 ## Input
   Should be pluggable and try  not to make assumptions about structure
+  
   Should ship with input plugins for:
   
   * Markdown and YAML frontmatter on disk
