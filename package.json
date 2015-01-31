@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/andymantell/statice",
   "devDependencies": {
+    "mocha-jshint": "0.0.9",
     "should": "^4.6.2"
   }
 }
