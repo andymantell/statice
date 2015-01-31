@@ -1,0 +1,22 @@
+{
+  "name": "statice",
+  "version": "0.0.0",
+  "description": "A simple yet flexible static site generator",
+  "main": "lib/statice.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andymantell/statice.git"
+  },
+  "author": "Andy Mantell <contact@andymantell.com> (http://andymantell.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andymantell/statice/issues"
+  },
+  "homepage": "https://github.com/andymantell/statice",
+  "devDependencies": {
+    "should": "^4.6.2"
+  }
+}
