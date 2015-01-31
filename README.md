@@ -1,5 +1,6 @@
 # statice
 Statice - A simple yet flexible static site generator
+[![Build Status](https://travis-ci.org/andymantell/statice.svg)](https://travis-ci.org/andymantell/statice)
 
 Currently at the planning stage, if you're after a working solution this is not the right place for you. Yet...
 
