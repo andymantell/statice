@@ -19,5 +19,10 @@
   "devDependencies": {
     "mocha-jshint": "0.0.9",
     "should": "^4.6.2"
+  },
+  "dependencies": {
+    "es6-promise": "^2.0.1",
+    "extend": "^2.0.0",
+    "glob": "^4.3.5"
   }
 }
