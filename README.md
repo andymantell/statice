@@ -17,6 +17,9 @@ Currently at the planning stage, if you're after a working solution this is not 
   Handlebars
   * Partials, layouts and helpers
   * Ability to define custom helpers
+  * When "watching":
+    * A change to a single page should not trigger a rebuild of the entire site
+    * A change to a template should only rebuild pages that use that template
   * Should ship with custom helpers for:
     * ...
       
